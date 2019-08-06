@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "com.ubungit.demo.DemoApplication",
+            "projectName": "demo"
+        }
+    ]
+}
